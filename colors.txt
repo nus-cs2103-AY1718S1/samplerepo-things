@@ -1,3 +1,5 @@
+colors
 blue
+green
 red
 white
