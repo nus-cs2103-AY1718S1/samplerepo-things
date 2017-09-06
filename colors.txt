@@ -1,5 +1,3 @@
 blue
 red
 white
-
-hello this is the branch file
